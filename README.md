@@ -35,6 +35,6 @@
 
 <h3>Contact Me</h3>
 <p>
-<a href="https://dev2d0.github.io/DYportfolio/"><img src="https://img.shields.io/badge/My Portfolio-D14836.svg?style=for-the-badge&logoColor=white"/></a> &nbsp;
+<a href="https://dev2d0.github.io/DYportfolio/"><img src="https://img.shields.io/badge/My Portfolio-4F0599.svg?style=for-the-badge&logoColor=white"/></a> &nbsp;
 <a href="mailto:leedy2491@ajou.ac.kr"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a> &nbsp;
 </p>
