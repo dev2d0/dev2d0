@@ -5,7 +5,7 @@
 </p>
 
 
- <h3>Things I code with</h3>
+ <h3>Tech Skills</h3>
   <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white" />
   <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white" />
@@ -33,6 +33,6 @@
 
 <h3>Contact Me</h3>
 <p>
-  
+<a href="https://dev2d0.github.io/DYportfolio/"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a> &nbsp;
 <a href="mailto:leedy2491@ajou.ac.kr"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a> &nbsp;
 </p>
