@@ -30,7 +30,7 @@
   </br>
 
 
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white" />
   </br>
 
 <h3>Contact Me</h3>
