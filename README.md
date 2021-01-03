@@ -1,5 +1,7 @@
-### Hi there 👋 i'm dev2d0 <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-
+### Thank you for visit Dev2d0's Github <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+<p>
+  <b>Hello, I'm Dev2d0. I am studying with the goal of becoming a full-tech developer.</b> </br>
+</p>
 <!--
 **dev2d0/dev2d0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
