@@ -33,7 +33,7 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white" />
   </br>
 
-<h3>Contact Me</h3>
+<h3>Contact Me</h3> <h1>Click the button below.</h1>
 <p>
 <a href="https://dev2d0.github.io/DYportfolio/"><img src="https://img.shields.io/badge/My Portfolio-4F0599.svg?style=for-the-badge&logoColor=white"/></a> &nbsp;
 <a href="mailto:leedy2491@ajou.ac.kr"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a> &nbsp;
