@@ -1,4 +1,4 @@
-### Thank you for visit Dev2d0's Github <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+### Thank you for visiting Dev2d0's Github <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
 <p>
   <b>Hello, I'm Dev2d0. Currently, I am focusing on front-end development, but I am studying with the goal of becoming a full-tech developer.</b> </br>
