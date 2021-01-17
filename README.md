@@ -1,7 +1,7 @@
 ### Thank you for visiting Dev2d0's Github <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
 <p>
-  <b>안녕하세요 Dev20입니다. 현재 저는 프론트엔드 개발에 집중하고 있지만 풀스택 개발을 목표하고 있습니다.</b> </br>
+  <b>안녕하세요 Dev20입니다. 현재 프론트엔드 개발에 집중하고 있지만 풀스택 개발을 목표하고 있습니다.</b> </br>
 </p>
 <p>
   <b>Hello, I'm Dev2d0. Currently, I am focusing on front-end development, but I am studying with the goal of becoming a full-tech developer. </b> </br>
