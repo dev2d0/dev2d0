@@ -41,7 +41,7 @@
   </br>
 
 <h3>Contact Me</h3>
-<h5>Click the button below. visit my site</h5>
+<h5>Click the button below. visit my portfolio and website</h5>
 <p>
 <a href="https://dev2d0.github.io/DYportfolio/"><img src="https://img.shields.io/badge/My Portfolio-4F0599.svg?style=for-the-badge&logoColor=white"/></a> &nbsp;
 <a href="https://dev2d0travelexpenses.herokuapp.com/"><img src="https://img.shields.io/badge/TravelExpenses Service-11baa4.svg?style=for-the-badge&logoColor=white"/></a> &nbsp;
