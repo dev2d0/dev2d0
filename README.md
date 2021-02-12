@@ -21,7 +21,7 @@
 
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white" />
-  <img alt="AmazoneS3" src="https://img.shields.io/badge/-AmazoneS3-232F3E?style=flat-square&logo=AmazoneS3&logoColor=white" />
+  <img alt="AmazonS3" src="https://img.shields.io/badge/-AmazonS3-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white" />
   </br>
   
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
