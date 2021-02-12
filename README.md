@@ -14,9 +14,9 @@
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="MaterialUI" src="https://img.shields.io/badge/-MaterialUI-0081CB?style=flat-square&logo=Material-UI&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="AntDesign" src="https://img.shields.io/badge/-AntDesign-0170FE?style=flat-square&logo=Ant-Design&logoColor=white" />
   <img alt="BootStrap" src="https://img.shields.io/badge/-BootStrap-7952B3?style=flat-square&logo=BootStrap&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   </br>
 
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
