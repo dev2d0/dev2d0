@@ -20,8 +20,10 @@
   </br>
 
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-232F3E?style=flat-square&logo=Express&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white" />
+  <img alt="AmazoneS3" src="https://img.shields.io/badge/-AmazoneS3-232F3E?style=flat-square&logo=AmazoneS3&logoColor=white" />
   </br>
+  
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="MySQL"  src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
     <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white" />
