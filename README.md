@@ -1,7 +1,7 @@
 ### Thank you for visiting Dev2d0's Github <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev2d0&count_bg=%23C558DD&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <p>
-  <b>안녕하세요 열정적인 개발자 Dev20입니다. 현재 프론트엔드 개발 공부를 집중적으로 하고 있지만 풀스택 개발을 목표하고 있습니다!</b> </br>
+  <b>안녕하세요 열정적인 개발자 Dev20입니다. 현재 프론트엔드 개발 공부를 집중적으로 하고 있지만 풀스택 개발을 목표하고 있습니다!</b></br>
 </p>
 <p>
   <b>Hello, I'm Dev2d0. Currently, I am focusing on front-end development, but I am studying with the goal of becoming a full-tech developer. </b> </br>
