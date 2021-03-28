@@ -4,7 +4,7 @@
   <b>안녕하세요 열정적인 개발자 Dev20입니다. 현재 프론트엔드 개발 공부를 집중적으로 하고 있지만 백엔드 개발까지 잘하는 풀스택 개발자를 목표하고 있습니다!</b></br>
 </p>
 <p>
-  <b>Hello, I'm Dev2d0. Currently, I am focusing on front-end development, but I am studying with the goal of becoming a full-tech developer. </b> </br>
+  <b>Hello, I'm Dev20 who is a passionate developer. We are focusing on front-end development, but we are also targeting full-stack developers who are good at back-end development! </b> </br>
 </p>
 
 
