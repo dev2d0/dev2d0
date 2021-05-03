@@ -1,7 +1,7 @@
 ### Thank you for visiting Dev2d0's Github <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev2d0&count_bg=%23C558DD&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <p>
-  <b>안녕하세요 방문해 주셔서 감사합니다. 열정적인 VCNC 개발자 Dev20입니다.</b></br>
+  <b>안녕하세요 방문해 주셔서 감사합니다. 열정적인 VCNC 개발자 Dev2d0입니다.</b></br>
 </p>
 <p>
   <b>Hello, I'm Dev20 who is a passionate developer. We are focusing on front-end development, but we are also targeting full-stack developers who are good at back-end development! </b> </br>
