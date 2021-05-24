@@ -48,6 +48,8 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
    <img alt="github" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white" />
   </br>
+  
+  [![Dev2d0](https://github-readme-stats.vercel.app/api?username=dev2d0)](https://github.com/dev2d0/github-readme-stats)
 
 <h3>Contact Me</h3>
 <h5>Click the button below. visit my portfolio and website</h5>
