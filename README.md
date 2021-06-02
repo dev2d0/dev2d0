@@ -7,7 +7,6 @@
   <b>Hello, thank you for visiting. Dev2d0, the passionate developer of VCNC(Tada).</b> </br>
 </p>
 
-
  <h3>Tech Skills</h3>
   <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
