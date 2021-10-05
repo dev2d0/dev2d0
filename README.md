@@ -4,7 +4,6 @@
 <p>
   <b>안녕하세요 방문해 주셔서 감사합니다. VCNC(타다)의 열정적인 개발자 Dev2d0입니다.</b></br>
 </p>
-
 <p>
   <b>Hello, thank you for visiting. Dev2d0, the passionate developer of VCNC(Tada).</b> </br>
 </p>
