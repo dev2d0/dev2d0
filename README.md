@@ -50,7 +50,7 @@
    <img alt="github" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white" />
   </br> 
   
-  [![Dev2d0](https://github-readme-stats.vercel.app/api?username=dev2d0&theme=flag-india&hide_border=false&show_icons=true&line_height=20&show_owner=true")](https://github.com/dev2d0/github-readme-stats)
+  [![Dev2d0](https://github-readme-stats.vercel.app/api?username=dev2d0&theme=flag-india&hide_border=false&show_icons=true&line_height=20&show_owner=false")](https://github.com/dev2d0/github-readme-stats)
 
 <h3>Contact Me</h3>
 <h5>Click the button below. visit my portfolio and website</h5>
