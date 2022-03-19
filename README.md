@@ -15,10 +15,10 @@
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="Emotion" src="https://img.shields.io/badge/-CC6699?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="Emotion" src="https://img.shields.io/badge/-Emotion-CC6699?style=flat-square&logo=Emotion&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="PrimeNG" src="https://img.shields.io/badge/-Prime-00A8E1?style=flat-square&logo=PrimeNG&logoColor=white" />
-  <img alt="PrimeReact" src="https://img.shields.io/badge/-Prime-00A8E1?style=flat-square&logo=PrimeReact&logoColor=white" />
+  <img alt="PrimeNG" src="https://img.shields.io/badge/-PrimeNg-00A8E1?style=flat-square&logo=PrimeNG&logoColor=white" />
+  <img alt="PrimeReact" src="https://img.shields.io/badge/-PrimeReact-00A8E1?style=flat-square&logo=PrimeReact&logoColor=white" />
   <img alt="MaterialUI" src="https://img.shields.io/badge/-MaterialUI-0081CB?style=flat-square&logo=Material-UI&logoColor=white" />
   <img alt="AntDesign" src="https://img.shields.io/badge/-AntDesign-0170FE?style=flat-square&logo=Ant-Design&logoColor=white" />
   <img alt="BootStrap" src="https://img.shields.io/badge/-BootStrap-7952B3?style=flat-square&logo=BootStrap&logoColor=white" />
