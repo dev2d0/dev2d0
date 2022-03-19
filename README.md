@@ -19,7 +19,7 @@
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="PrimeNG" src="https://img.shields.io/badge/-PrimeNg-00A8E1?style=flat-square&logo=PrimeNG&logoColor=white" />
   <img alt="PrimeReact" src="https://img.shields.io/badge/-PrimeReact-00A8E1?style=flat-square&logo=PrimeReact&logoColor=white" />
-  <img alt="MaterialUI" src="https://img.shields.io/badge/-MaterialUI-0081CB?style=flat-square&logo=Material-UI&logoColor=white" />
+  <img alt="MUI" src="https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=MUI&logoColor=white" />
   <img alt="AntDesign" src="https://img.shields.io/badge/-AntDesign-0170FE?style=flat-square&logo=Ant-Design&logoColor=white" />
   <img alt="BootStrap" src="https://img.shields.io/badge/-BootStrap-7952B3?style=flat-square&logo=BootStrap&logoColor=white" />
   </p>
