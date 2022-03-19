@@ -19,7 +19,6 @@
   <img alt="AntDesign" src="https://img.shields.io/badge/-AntDesign-0170FE?style=flat-square&logo=Ant-Design&logoColor=white" />
   <img alt="BootStrap" src="https://img.shields.io/badge/-BootStrap-7952B3?style=flat-square&logo=BootStrap&logoColor=white" />
   </p>
-  </br>
   
   <h4>Backend</h4>
   <p>
@@ -28,7 +27,6 @@
    <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
   <img alt="AmazonS3" src="https://img.shields.io/badge/-AmazonS3-CC2929?style=flat-square&logo=Amazon-AWS&logoColor=white" />
   </p>
-  </br>
   
   <h4>Database</h4>
   <p>
@@ -36,7 +34,6 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0064a5?style=flat-square&logo=PostgreSQL&logoColor=white"/>
   </p>
-  </br>
   
   <h4>Programming Language</h4>
   <p>
@@ -50,21 +47,18 @@
   <img alt="SCSS" src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
   </p>
-  </br>
   
   <h4>Version Control</h4>
   <p>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="github" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white" />
   </p>
-  </br> 
 
   <h4>Etc</h4>
   <p>
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   </p>
-  </br>
   
   [![Dev2d0](https://github-readme-stats.vercel.app/api?username=dev2d0&theme=flag-india&hide_border=false&show_icons=true&line_height=20&show_owner=true")](https://github.com/dev2d0/github-readme-stats)
 
