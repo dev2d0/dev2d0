@@ -9,8 +9,8 @@
 </p>
 
  <h3>Tech Skills</h3>
- <p>
  <h4>Frontend</h4>
+  <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white" />
@@ -18,6 +18,7 @@
   <img alt="MaterialUI" src="https://img.shields.io/badge/-MaterialUI-0081CB?style=flat-square&logo=Material-UI&logoColor=white" />
   <img alt="AntDesign" src="https://img.shields.io/badge/-AntDesign-0170FE?style=flat-square&logo=Ant-Design&logoColor=white" />
   <img alt="BootStrap" src="https://img.shields.io/badge/-BootStrap-7952B3?style=flat-square&logo=BootStrap&logoColor=white" />
+  </p>
   </br>
    <h4>Backend</h4>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
