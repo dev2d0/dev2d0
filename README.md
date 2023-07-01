@@ -2,10 +2,10 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev2d0&count_bg=%23C558DD&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <p>
-  <b>안녕하세요 방문해 주셔서 감사합니다. VCNC(타다)의 열정적인 개발자 Dev2d0입니다.</b></br>
+  <b>안녕하세요 방문해 주셔서 감사합니다. 열정적인 개발자 Dev2d0입니다.</b></br>
 </p>
 <p>
-  <b>Hello, thank you for visiting. Dev2d0, the passionate developer of VCNC(Tada).</b> </br>
+  <b>Hello, thank you for visiting. Dev2d0, the passionate developer.</b> </br>
 </p>
 
  <h3>Tech Skills</h3>
